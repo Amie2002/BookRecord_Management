@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Amie2002/BookRecordManagement.git"
+    "url": "git+https://github.com/Amie2002/BookRecord_Management.git"
   },
-  "author": "Aditya Gusain",
-  "license": "ISC",
+  "author": "",
+  "license": "",
   "bugs": {
-    "url": "https://github.com/Amie2002/BookRecordManagement/issues"
+    "url": "https://github.com/Amie2002/BookRecord_Management/issues"
   },
-  "homepage": "https://github.com/Amie2002/BookRecordManagement/blob/main/README.md",
+  "homepage": "https://github.com/Amie2002/BookRecord_Management/blob/main/README.md",
   "dependencies": {
     "dotenv": "^16.0.1",
     "express": "^4.18.1",
