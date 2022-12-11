@@ -1,0 +1,29 @@
+{
+  "name": "bookrecordmanagement",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Amie2002/BookRecordManagement.git"
+  },
+  "author": "Aditya Gusain",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Amie2002/BookRecordManagement/issues"
+  },
+  "homepage": "https://github.com/Amie2002/BookRecordManagement/blob/main/README.md",
+  "dependencies": {
+    "dotenv": "^16.0.1",
+    "express": "^4.18.1",
+    "mongoose": "^6.5.3"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.19"
+  },
+  "keywords": []
+}
